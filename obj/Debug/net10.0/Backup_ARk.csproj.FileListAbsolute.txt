@@ -24,3 +24,4 @@ I:\Backup_ARk\obj\Debug\net10.0\Backup_ARk.pdb
 I:\Backup_ARk\obj\Debug\net10.0\Backup_ARk.genruntimeconfig.cache
 I:\Backup_ARk\obj\Debug\net10.0\ref\Backup_ARk.dll
 I:\Backup_ARk\bin\Debug\net10.0\appsettings.json
+I:\Backup_ARk\obj\Debug\net10.0\Backup_ARk.sourcelink.json

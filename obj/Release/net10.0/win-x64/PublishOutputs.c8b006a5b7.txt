@@ -1,0 +1,15 @@
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Backup_ARk.exe
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\appsettings.json
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Backup_ARk.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Backup_ARk.deps.json
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Backup_ARk.runtimeconfig.json
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Backup_ARk.pdb
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.Configuration.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.Configuration.Binder.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.Configuration.Json.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.FileProviders.Physical.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\Backup_ARk\bin\Release\net10.0\win-x64\publish\Microsoft.Extensions.Primitives.dll

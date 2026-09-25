@@ -33,8 +33,10 @@ public class BackupService
         // 2. criando data no formato americano
         string data = DateTime.Now.ToString("yyyyMMdd");
         
+        string horaAtual = DateTime.Now.ToString("HHmm");
+        
         // 3. concatenando o nome do diretorio com a data
-        string nomeDiretorioBackup = $"{nomeDiretorio}_{data}";
+        string nomeDiretorioBackup = $"{nomeDiretorio}_{data}_{horaAtual}";
 
         // 4 Cria o caminho completo da pasta no destino
         string novoDiretorio = Path.Combine(diretorioDestino,nomeDiretorioBackup);
